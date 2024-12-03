@@ -1,0 +1,1 @@
+This is a basic e-commerce website built using HTML, CSS, and JavaScript. It includes features like product listing, shopping cart functionality, and responsive design for a seamless user experience. The project demonstrates my skills in frontend development and is hosted on GitHub for version control and collaboration.
